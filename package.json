@@ -1,0 +1,7 @@
+{
+  "name": "coursejs",
+  "dependencies": {
+    "npm": "^6.0.1"
+  },
+  "version": "1.0"
+}
